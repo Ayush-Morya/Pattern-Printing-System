@@ -56,6 +56,7 @@ A console-based Pattern Printing System built using Java. The project allows use
 ## Concepts Used
 
 - Methods
+- Method Overloading
 - Loops
 - Nested loops
 - Conditional statements
